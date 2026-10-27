@@ -1,6 +1,6 @@
 # Cashu Contributions
 
-Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) across the [cashubtc](https://github.com/cashubtc) organisation. Updated 2026-10-27.
+Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) across the [cashubtc](https://github.com/cashubtc) organisation.
 
 | | Count |
 |---|---|

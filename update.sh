@@ -6,7 +6,7 @@ rev=$(gh search prs --owner cashubtc --reviewed-by "$U" --limit 200 --json repos
 aut=$(gh search prs --owner cashubtc --author "$U" --limit 200 --json repository,number,title,state,url,updatedAt | jq 'sort_by(.updatedAt) | reverse')
 {
 printf '# Cashu Contributions\n\n'
-printf 'Reviews and pull requests by [@%s](https://github.com/%s) across the [cashubtc](https://github.com/cashubtc) organisation. Updated %s.\n\n' "$U" "$U" "$(date -u +%Y-%m-%d)"
+printf 'Reviews and pull requests by [@%s](https://github.com/%s) across the [cashubtc](https://github.com/cashubtc) organisation.\n\n' "$U" "$U"
 jq -rn --argjson r "$rev" --argjson a "$aut" '
 def esc: gsub("\\|"; "\\|");
 "| | Count |",
