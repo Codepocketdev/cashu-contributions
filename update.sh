@@ -4,11 +4,10 @@ cd "$(dirname "$0")"
 U=Codepocketdev
 rev=$(gh search prs --owner cashubtc --reviewed-by "$U" --limit 200 --json repository,number,title,state,author,url,updatedAt | jq --arg u "$U" '[.[] | select(.author.login != $u)] | sort_by(.updatedAt) | reverse')
 aut=$(gh search prs --owner cashubtc --author "$U" --limit 200 --json repository,number,title,state,url,updatedAt | jq 'sort_by(.updatedAt) | reverse')
-notes=$(cat notes.json)
 {
 printf '# Cashu Contributions\n\n'
 printf 'Reviews and pull requests by [@%s](https://github.com/%s) across the [cashubtc](https://github.com/cashubtc) organisation. Updated %s.\n\n' "$U" "$U" "$(date -u +%Y-%m-%d)"
-jq -rn --argjson r "$rev" --argjson a "$aut" --argjson n "$notes" '
+jq -rn --argjson r "$rev" --argjson a "$aut" '
 def esc: gsub("\\|"; "\\|");
 "| | Count |",
 "|---|---|",
@@ -17,14 +16,7 @@ def esc: gsub("\\|"; "\\|");
 "| PRs authored | \($a | length) |",
 "| Authored PRs merged | \([$a[] | select(.state == "merged")] | length) |",
 "",
-"## Review findings",
-"",
-"| PR | Repo | Status | Result |",
-"|---|---|---|---|",
-($r[] | . as $p | $n["\($p.repository.name)/\($p.number)"] as $x | select($x != null)
-  | "| [#\($p.number)](\($p.url)) \($p.title | esc) | \($p.repository.name) | \($p.state) | \($x | esc) |"),
-"",
-"## All reviews",
+"## Reviews",
 "",
 "| PR | Repo | Author | Status |",
 "|---|---|---|---|",

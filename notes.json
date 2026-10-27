@@ -1,7 +1,0 @@
-{
-  "cdk/2765": "Fix and validation pinned. Error message on the core parse path unpinned.",
-  "cdk/2764": "Output-count and duplicate-output guards unpinned by existing tests.",
-  "cdk/2761": "Disabling the stale-discard branch failed no test.",
-  "cdk/2721": "Five mutations across routing, scheme case and TXT conflicts, all caught. 524 tests pass.",
-  "cdk/2753": "In progress"
-}

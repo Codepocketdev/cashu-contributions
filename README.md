@@ -9,24 +9,14 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
 
-## Review findings
-
-| PR | Repo | Status | Result |
-|---|---|---|---|
-| [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | merged | Disabling the stale-discard branch failed no test. |
-| [#2721](https://github.com/cashubtc/cdk/pull/2721) fix(wallet): parse concrete BIP353 URIs without LNURL resolution | cdk | open | Five mutations across routing, scheme case and TXT conflicts, all caught. 524 tests pass. |
-| [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | open | Output-count and duplicate-output guards unpinned by existing tests. |
-| [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | open | Fix and validation pinned. Error message on the core parse path unpinned. |
-| [#2753](https://github.com/cashubtc/cdk/pull/2753) feat(mint): settle pending melts before inactivating a rotated keyset | cdk | open | In progress |
-
-## All reviews
+## Reviews
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | @j-kon | open |
 | [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | @thesimplekid | merged |
 | [#2721](https://github.com/cashubtc/cdk/pull/2721) fix(wallet): parse concrete BIP353 URIs without LNURL resolution | cdk | @asmogo | open |
 | [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | @comwanga | open |
-| [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | @j-kon | open |
 | [#2589](https://github.com/cashubtc/cdk/pull/2589) feat(mint-rpc): expose issued and redeemed totals by unit and keyset | cdk | @j-kon | open |
 | [#2699](https://github.com/cashubtc/cdk/pull/2699) fix(mint-rpc): prevent mint quote over-credit on force-paid | cdk | @comwanga | open |
 | [#2753](https://github.com/cashubtc/cdk/pull/2753) feat(mint): settle pending melts before inactivating a rotated keyset | cdk | @robwoodgate | open |
