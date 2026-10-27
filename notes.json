@@ -1,0 +1,7 @@
+{
+  "cdk/2765": {"result": "Fix and validation pinned. Error message on the core parse path unpinned.", "response": "Awaiting reply"},
+  "cdk/2764": {"result": "Output-count and duplicate-output guards unpinned by existing tests.", "response": "Acknowledged, adding regression tests"},
+  "cdk/2761": {"result": "Disabling the stale-discard branch failed no test.", "response": "Posted after merge"},
+  "cdk/2721": {"result": "Five mutations across routing, scheme case and TXT conflicts, all caught. 524 tests pass.", "response": "None needed"},
+  "cdk/2753": {"result": "In progress", "response": ""}
+}
