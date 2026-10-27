@@ -19,10 +19,10 @@ def esc: gsub("\\|"; "\\|");
 "",
 "## Review findings",
 "",
-"| PR | Repo | Status | Result | Author response |",
-"|---|---|---|---|---|",
+"| PR | Repo | Status | Result |",
+"|---|---|---|---|",
 ($r[] | . as $p | $n["\($p.repository.name)/\($p.number)"] as $x | select($x != null)
-  | "| [#\($p.number)](\($p.url)) \($p.title | esc) | \($p.repository.name) | \($p.state) | \($x.result | esc) | \($x.response // "" | esc) |"),
+  | "| [#\($p.number)](\($p.url)) \($p.title | esc) | \($p.repository.name) | \($p.state) | \($x | esc) |"),
 "",
 "## All reviews",
 "",

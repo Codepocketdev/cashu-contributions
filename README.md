@@ -11,13 +11,13 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 ## Review findings
 
-| PR | Repo | Status | Result | Author response |
-|---|---|---|---|---|
-| [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | merged | Disabling the stale-discard branch failed no test. | Posted after merge |
-| [#2721](https://github.com/cashubtc/cdk/pull/2721) fix(wallet): parse concrete BIP353 URIs without LNURL resolution | cdk | open | Five mutations across routing, scheme case and TXT conflicts, all caught. 524 tests pass. | None needed |
-| [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | open | Output-count and duplicate-output guards unpinned by existing tests. | Acknowledged, adding regression tests |
-| [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | open | Fix and validation pinned. Error message on the core parse path unpinned. | Awaiting reply |
-| [#2753](https://github.com/cashubtc/cdk/pull/2753) feat(mint): settle pending melts before inactivating a rotated keyset | cdk | open | In progress |  |
+| PR | Repo | Status | Result |
+|---|---|---|---|
+| [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | merged | Disabling the stale-discard branch failed no test. |
+| [#2721](https://github.com/cashubtc/cdk/pull/2721) fix(wallet): parse concrete BIP353 URIs without LNURL resolution | cdk | open | Five mutations across routing, scheme case and TXT conflicts, all caught. 524 tests pass. |
+| [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | open | Output-count and duplicate-output guards unpinned by existing tests. |
+| [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | open | Fix and validation pinned. Error message on the core parse path unpinned. |
+| [#2753](https://github.com/cashubtc/cdk/pull/2753) feat(mint): settle pending melts before inactivating a rotated keyset | cdk | open | In progress |
 
 ## All reviews
 
