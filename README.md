@@ -14,7 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | PR | Repo | Author | Status |
 |---|---|---|---|
 | [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | @j-kon | open |
-| [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | @comwanga | open |
+| [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | @comwanga | closed |
 | [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | @thesimplekid | merged |
 | [#2753](https://github.com/cashubtc/cdk/pull/2753) feat(mint): settle pending melts before inactivating a rotated keyset | cdk | @robwoodgate | open |
 | [#2721](https://github.com/cashubtc/cdk/pull/2721) fix(wallet): parse concrete BIP353 URIs without LNURL resolution | cdk | @asmogo | open |
