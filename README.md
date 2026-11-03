@@ -4,8 +4,8 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed | 15 |
-| Reviewed PRs merged | 5 |
+| PRs reviewed | 17 |
+| Reviewed PRs merged | 6 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
 
@@ -27,7 +27,9 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#2641](https://github.com/cashubtc/cdk/pull/2641) Allow HTLC refunds with signature-only witnesses | cdk | @Arthur031221 | merged |
 | [#2639](https://github.com/cashubtc/cdk/pull/2639) fix: return persisted wallet quote state after status checks | cdk | @asmogo | merged |
 | [#2589](https://github.com/cashubtc/cdk/pull/2589) feat(mint-rpc): expose issued and redeemed totals by unit and keyset | cdk | @j-kon | open |
+| [#2530](https://github.com/cashubtc/cdk/pull/2530) Deliver NUT-18 payments over the configured transport | cdk | @crodas | merged |
 | [#2499](https://github.com/cashubtc/cdk/pull/2499) fix(wallet): preserve exact recipient amounts after redemption fees | cdk | @thesimplekid | open |
+| [#1183](https://github.com/cashubtc/nutshell/pull/1183) feat: add NUT-XX transactions | nutshell | @robwoodgate | open |
 
 ## Authored
 

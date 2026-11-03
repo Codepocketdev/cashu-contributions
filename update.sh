@@ -2,7 +2,9 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 U=Codepocketdev
-rev=$(gh search prs --owner cashubtc --reviewed-by "$U" --limit 200 --json repository,number,title,state,author,url,updatedAt | jq --arg u "$U" '[.[] | select(.author.login != $u)] | sort_by(.number) | reverse')
+rev=$(gh search prs --owner cashubtc --reviewed-by "$U" --limit 200 --json repository,number,title,state,author,url,updatedAt | jq --arg u "$U" '[.[] | select(.author.login != $u)]')
+com=$(gh search prs --owner cashubtc --commenter "$U" --limit 200 --json repository,number,title,state,author,url,updatedAt | jq --arg u "$U" '[.[] | select(.author.login != $u)]')
+rev=$(jq -n --argjson a "$rev" --argjson b "$com" '($a + $b) | unique_by(.repository.name + (.number|tostring)) | sort_by(.number) | reverse')
 aut=$(gh search prs --owner cashubtc --author "$U" --limit 200 --json repository,number,title,state,url,updatedAt | jq 'sort_by(.number) | reverse')
 {
 printf '# Cashu Contributions\n\n'
