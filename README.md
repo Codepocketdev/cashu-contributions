@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed | 17 |
+| PRs reviewed | 19 |
 | Reviewed PRs merged | 6 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
@@ -13,6 +13,8 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2786](https://github.com/cashubtc/cdk/pull/2786) fix(mint): reject reused outputs with 11003 on swap, mint and melt | cdk | @amartya1523 | open |
+| [#2785](https://github.com/cashubtc/cdk/pull/2785) fix(wallet): select swap send proofs by the denominations actually requested | cdk | @amartya1523 | open |
 | [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | @j-kon | open |
 | [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | @comwanga | closed |
 | [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | @thesimplekid | merged |
