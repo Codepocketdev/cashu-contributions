@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed | 19 |
+| PRs reviewed | 20 |
 | Reviewed PRs merged | 7 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
@@ -13,6 +13,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2800](https://github.com/cashubtc/cdk/pull/2800) Skip expired keysets when listing proofs and picking outputs | cdk | @crodas | open |
 | [#2786](https://github.com/cashubtc/cdk/pull/2786) fix(mint): reject reused outputs with 11003 on swap, mint and melt | cdk | @amartya1523 | merged |
 | [#2785](https://github.com/cashubtc/cdk/pull/2785) fix(wallet): select swap send proofs by the denominations actually requested | cdk | @amartya1523 | open |
 | [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | @j-kon | open |
