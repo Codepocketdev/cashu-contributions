@@ -55,4 +55,4 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | Contribution | Repo | Date | Credit |
 |---|---|---|---|
-| [Arkoor (intra-Ark) destination routing in get_payment_quote and make_payment](https://github.com/cashubtc/cdk-payment-processors/commit/08467c10a7e2d8a7a9a72ab2b809476b6a50f19d) | cashubtc/cdk-payment-processors | 2026-07-26 | Co-author; earlier fork commits Jun 27 and Jul 17 |
+| [Arkoor (intra-Ark) destination routing in get_payment_quote and make_payment](https://github.com/cashubtc/cdk-payment-processors/commit/08467c10a7e2d8a7a9a72ab2b809476b6a50f19d) | cashubtc/cdk-payment-processors | 2026-07-26 | Co-author. Written first in [my fork](https://github.com/Codepocketdev/cdk-bark-payment-procssor/commit/cb0cea33a678c1d43c28b8e907c123144a9da657) on Jun 27, 43 of the 45 changed lines are identical |
