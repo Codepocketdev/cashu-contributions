@@ -4,15 +4,17 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed | 20 |
-| Reviewed PRs merged | 8 |
+| PRs reviewed or commented on | 21 |
+| Of those, merged | 8 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
+| Commits landed through maintainers | 1 |
 
 ## Reviews
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2822](https://github.com/cashubtc/cdk/pull/2822) fix(wallet): keep stored proofs when a receive is compensated | cdk | @amartya1523 | open |
 | [#2800](https://github.com/cashubtc/cdk/pull/2800) Skip expired keysets when listing proofs and picking outputs | cdk | @crodas | open |
 | [#2786](https://github.com/cashubtc/cdk/pull/2786) fix(mint): reject reused outputs with 11003 on swap, mint and melt | cdk | @amartya1523 | merged |
 | [#2785](https://github.com/cashubtc/cdk/pull/2785) fix(wallet): select swap send proofs by the denominations actually requested | cdk | @amartya1523 | merged |
@@ -48,3 +50,9 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#520](https://github.com/cashubtc/cashu.me/pull/520) fix: skip welcome onboarding if wallet mnemonic already exists | cashu.me | open |
 | [#312](https://github.com/cashubtc/Numo/pull/312) feat: show active mint name and balance on POS screen | Numo | closed |
 | [#23](https://github.com/cashubtc/awesome-cashu/pull/23) Add Satoshi Pay wallet | awesome-cashu | merged |
+
+## Landed through maintainers
+
+| Contribution | Repo | Date | Credit |
+|---|---|---|---|
+| [Arkoor (intra-Ark) destination routing in get_payment_quote and make_payment](https://github.com/cashubtc/cdk-payment-processors/commit/08467c10a7e2d8a7a9a72ab2b809476b6a50f19d) | cashubtc/cdk-payment-processors | 2026-07-26 | Co-author |
