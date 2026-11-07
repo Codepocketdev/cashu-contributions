@@ -46,7 +46,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#997](https://github.com/cashubtc/nutshell/pull/997) fix: add ORDER BY id to blind signatures and blinded messages melt queries | nutshell | closed |
 | [#996](https://github.com/cashubtc/nutshell/pull/996) fix: update .env.example to reflect rate limiting enabled by default | nutshell | merged |
 | [#524](https://github.com/cashubtc/cashu.me/pull/524) feat: add import backup button to welcome screen | cashu.me | open |
-| [#523](https://github.com/cashubtc/cashu.me/pull/523) fix: handle non-ISO currency codes in formatCurrency without crashing | cashu.me | open |
+| [#523](https://github.com/cashubtc/cashu.me/pull/523) fix: handle non-ISO currency codes in formatCurrency without crashing | cashu.me | closed |
 | [#521](https://github.com/cashubtc/cashu.me/pull/521) fix: disable seed backup checkbox until seed is revealed | cashu.me | open |
 | [#520](https://github.com/cashubtc/cashu.me/pull/520) fix: skip welcome onboarding if wallet mnemonic already exists | cashu.me | open |
 | [#312](https://github.com/cashubtc/Numo/pull/312) feat: show active mint name and balance on POS screen | Numo | closed |
