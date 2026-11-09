@@ -5,7 +5,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | | Count |
 |---|---|
 | PRs reviewed or commented on | 22 |
-| Of those, merged | 8 |
+| Of those, merged | 9 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -22,7 +22,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#2765](https://github.com/cashubtc/cdk/pull/2765) fix(ffi): expose canonical normalized MintUrl | cdk | @j-kon | open |
 | [#2764](https://github.com/cashubtc/cdk/pull/2764) fix(wallet): correct receive recovery accounting | cdk | @comwanga | closed |
 | [#2761](https://github.com/cashubtc/cdk/pull/2761) fix(sql): harden transaction cleanup | cdk | @thesimplekid | merged |
-| [#2753](https://github.com/cashubtc/cdk/pull/2753) fix(wallet): unblind melt change with the blanks' keyset | cdk | @robwoodgate | open |
+| [#2753](https://github.com/cashubtc/cdk/pull/2753) fix(wallet): unblind melt change with the blanks' keyset | cdk | @robwoodgate | merged |
 | [#2721](https://github.com/cashubtc/cdk/pull/2721) fix(wallet): parse concrete BIP353 URIs without LNURL resolution | cdk | @asmogo | open |
 | [#2699](https://github.com/cashubtc/cdk/pull/2699) fix(mint-rpc): prevent mint quote over-credit on force-paid | cdk | @comwanga | closed |
 | [#2696](https://github.com/cashubtc/cdk/pull/2696) feat(wallet): add resumable seed recovery | cdk | @a1denvalu3 | open |
