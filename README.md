@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 22 |
+| PRs reviewed or commented on | 23 |
 | Of those, merged | 9 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
@@ -14,6 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | open |
 | [#2822](https://github.com/cashubtc/cdk/pull/2822) fix(wallet): keep stored proofs when a receive is compensated | cdk | @amartya1523 | open |
 | [#2821](https://github.com/cashubtc/cdk/pull/2821) fix(wallet): scope active and pending melt quotes to the wallet's mint | cdk | @amartya1523 | open |
 | [#2800](https://github.com/cashubtc/cdk/pull/2800) Skip expired keysets when listing proofs and picking outputs | cdk | @crodas | open |
