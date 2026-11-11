@@ -28,7 +28,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#2699](https://github.com/cashubtc/cdk/pull/2699) fix(mint-rpc): prevent mint quote over-credit on force-paid | cdk | @comwanga | closed |
 | [#2696](https://github.com/cashubtc/cdk/pull/2696) feat(wallet): add resumable seed recovery | cdk | @a1denvalu3 | open |
 | [#2683](https://github.com/cashubtc/cdk/pull/2683) refactor(wallet)!: remove the shared wallet trait | cdk | @thesimplekid | merged |
-| [#2681](https://github.com/cashubtc/cdk/pull/2681) test: document and verify melt disable behavior contract | cdk | @MrishoLukamba | open |
+| [#2681](https://github.com/cashubtc/cdk/pull/2681) test: document and verify melt disable behavior contract | cdk | @MrishoLukamba | closed |
 | [#2674](https://github.com/cashubtc/cdk/pull/2674) test(cashu): carry the NUT-13 v3 seed as 64 bytes | cdk | @robwoodgate | merged |
 | [#2649](https://github.com/cashubtc/cdk/pull/2649) feat(cashu): transcript container types carry their section in the high nibble | cdk | @robwoodgate | closed |
 | [#2641](https://github.com/cashubtc/cdk/pull/2641) Allow HTLC refunds with signature-only witnesses | cdk | @Arthur031221 | merged |
