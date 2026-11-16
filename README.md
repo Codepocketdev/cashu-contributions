@@ -4,8 +4,8 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 24 |
-| Of those, merged | 9 |
+| PRs reviewed or commented on | 26 |
+| Of those, merged | 10 |
 | PRs authored | 10 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -14,7 +14,9 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
-| [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | open |
+| [#2903](https://github.com/cashubtc/cdk/pull/2903) fix(mint): harden restore and expand recovery coverage | cdk | @thesimplekid | open |
+| [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | merged |
+| [#2883](https://github.com/cashubtc/cdk/pull/2883) fix(cashu): do not write or accept an empty pubkeys tag | cdk | @robwoodgate | open |
 | [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | open |
 | [#2822](https://github.com/cashubtc/cdk/pull/2822) fix(wallet): keep stored proofs when a receive is compensated | cdk | @amartya1523 | open |
 | [#2821](https://github.com/cashubtc/cdk/pull/2821) fix(wallet): scope active and pending melt quotes to the wallet's mint | cdk | @amartya1523 | open |
