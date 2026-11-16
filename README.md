@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 27 |
+| PRs reviewed or commented on | 28 |
 | Of those, merged | 11 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
@@ -17,6 +17,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#2903](https://github.com/cashubtc/cdk/pull/2903) fix(mint): harden restore and expand recovery coverage | cdk | @thesimplekid | open |
 | [#2896](https://github.com/cashubtc/cdk/pull/2896) fix(wallet): receive an expired HTLC through its refund path | cdk | @amartya1523 | merged |
 | [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | merged |
+| [#2894](https://github.com/cashubtc/cdk/pull/2894) fix(cashu): fall back to the HTLC refund path when the receiver path fails | cdk | @amartya1523 | open |
 | [#2883](https://github.com/cashubtc/cdk/pull/2883) fix(cashu): do not write or accept an empty pubkeys tag | cdk | @robwoodgate | open |
 | [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | open |
 | [#2822](https://github.com/cashubtc/cdk/pull/2822) fix(wallet): keep stored proofs when a receive is compensated | cdk | @amartya1523 | open |
