@@ -4,9 +4,9 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 26 |
-| Of those, merged | 10 |
-| PRs authored | 10 |
+| PRs reviewed or commented on | 27 |
+| Of those, merged | 11 |
+| PRs authored | 11 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
 
@@ -15,6 +15,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | PR | Repo | Author | Status |
 |---|---|---|---|
 | [#2903](https://github.com/cashubtc/cdk/pull/2903) fix(mint): harden restore and expand recovery coverage | cdk | @thesimplekid | open |
+| [#2896](https://github.com/cashubtc/cdk/pull/2896) fix(wallet): receive an expired HTLC through its refund path | cdk | @amartya1523 | merged |
 | [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | merged |
 | [#2883](https://github.com/cashubtc/cdk/pull/2883) fix(cashu): do not write or accept an empty pubkeys tag | cdk | @robwoodgate | open |
 | [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | open |
@@ -45,6 +46,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Status |
 |---|---|---|
+| [#2915](https://github.com/cashubtc/cdk/pull/2915) test(wallet): cover HTLC receive preimage paths | cdk | open |
 | [#2145](https://github.com/cashubtc/cdk/pull/2145) feat: add cdk-bark payment backend for Ark/bark | cdk | closed |
 | [#1286](https://github.com/cashubtc/cashu-ts/pull/1286) test(wallet): cover a proofs-only transaction that settles to change | cashu-ts | closed |
 | [#997](https://github.com/cashubtc/nutshell/pull/997) fix: add ORDER BY id to blind signatures and blinded messages melt queries | nutshell | closed |
