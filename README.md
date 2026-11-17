@@ -5,7 +5,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | | Count |
 |---|---|
 | PRs reviewed or commented on | 31 |
-| Of those, merged | 11 |
+| Of those, merged | 12 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -14,7 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
-| [#2918](https://github.com/cashubtc/cdk/pull/2918) fix(cdk-sql-common): guard the blind signature write on the stored state | cdk | @lorenzolfm | open |
+| [#2918](https://github.com/cashubtc/cdk/pull/2918) fix(cdk-sql-common): guard the blind signature write on the stored state | cdk | @lorenzolfm | merged |
 | [#2911](https://github.com/cashubtc/cdk/pull/2911) fix(signatory): check derived keys against the stored keyset id | cdk | @thesimplekid | open |
 | [#2907](https://github.com/cashubtc/cdk/pull/2907) feat(mint)!: select the keyset version explicitly | cdk | @thesimplekid | open |
 | [#2903](https://github.com/cashubtc/cdk/pull/2903) fix(mint): harden restore and expand recovery coverage | cdk | @thesimplekid | open |
