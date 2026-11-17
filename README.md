@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 30 |
+| PRs reviewed or commented on | 31 |
 | Of those, merged | 11 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
@@ -16,6 +16,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 |---|---|---|---|
 | [#2918](https://github.com/cashubtc/cdk/pull/2918) fix(cdk-sql-common): guard the blind signature write on the stored state | cdk | @lorenzolfm | open |
 | [#2911](https://github.com/cashubtc/cdk/pull/2911) fix(signatory): check derived keys against the stored keyset id | cdk | @thesimplekid | open |
+| [#2907](https://github.com/cashubtc/cdk/pull/2907) feat(mint)!: select the keyset version explicitly | cdk | @thesimplekid | open |
 | [#2903](https://github.com/cashubtc/cdk/pull/2903) fix(mint): harden restore and expand recovery coverage | cdk | @thesimplekid | open |
 | [#2896](https://github.com/cashubtc/cdk/pull/2896) fix(wallet): receive an expired HTLC through its refund path | cdk | @amartya1523 | merged |
 | [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | merged |
