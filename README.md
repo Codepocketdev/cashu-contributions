@@ -5,7 +5,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | | Count |
 |---|---|
 | PRs reviewed or commented on | 33 |
-| Of those, merged | 14 |
+| Of those, merged | 17 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -16,15 +16,15 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 |---|---|---|---|
 | [#2920](https://github.com/cashubtc/cdk/pull/2920) fix: handle SIGTERM gracefully in mintd and CLI listeners | cdk | @thesimplekid | merged |
 | [#2918](https://github.com/cashubtc/cdk/pull/2918) fix(cdk-sql-common): guard the blind signature write on the stored state | cdk | @lorenzolfm | merged |
-| [#2911](https://github.com/cashubtc/cdk/pull/2911) fix(signatory): check derived keys against the stored keyset id | cdk | @thesimplekid | open |
+| [#2911](https://github.com/cashubtc/cdk/pull/2911) fix(signatory): check derived keys against the stored keyset id | cdk | @thesimplekid | merged |
 | [#2907](https://github.com/cashubtc/cdk/pull/2907) feat(mint)!: select the keyset version explicitly | cdk | @thesimplekid | open |
 | [#2903](https://github.com/cashubtc/cdk/pull/2903) fix(mint): harden restore and expand recovery coverage | cdk | @thesimplekid | merged |
 | [#2896](https://github.com/cashubtc/cdk/pull/2896) fix(wallet): receive an expired HTLC through its refund path | cdk | @amartya1523 | merged |
 | [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | merged |
-| [#2894](https://github.com/cashubtc/cdk/pull/2894) fix(cashu): fall back to the HTLC refund path when the receiver path fails | cdk | @amartya1523 | open |
+| [#2894](https://github.com/cashubtc/cdk/pull/2894) fix(cashu): fall back to the HTLC refund path when the receiver path fails | cdk | @amartya1523 | merged |
 | [#2883](https://github.com/cashubtc/cdk/pull/2883) fix(cashu): do not write or accept an empty pubkeys tag | cdk | @robwoodgate | open |
 | [#2874](https://github.com/cashubtc/cdk/pull/2874) fix(cln): settle a failed xpay once no part can still pay | cdk | @macterra | open |
-| [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | open |
+| [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | merged |
 | [#2822](https://github.com/cashubtc/cdk/pull/2822) fix(wallet): keep stored proofs when a receive is compensated | cdk | @amartya1523 | open |
 | [#2821](https://github.com/cashubtc/cdk/pull/2821) fix(wallet): scope active and pending melt quotes to the wallet's mint | cdk | @amartya1523 | open |
 | [#2800](https://github.com/cashubtc/cdk/pull/2800) Skip expired keysets when listing proofs and picking outputs | cdk | @crodas | open |
