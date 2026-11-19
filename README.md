@@ -5,7 +5,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | | Count |
 |---|---|
 | PRs reviewed or commented on | 33 |
-| Of those, merged | 17 |
+| Of those, merged | 18 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -22,7 +22,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#2896](https://github.com/cashubtc/cdk/pull/2896) fix(wallet): receive an expired HTLC through its refund path | cdk | @amartya1523 | merged |
 | [#2895](https://github.com/cashubtc/cdk/pull/2895) fix(mint): publish unspent inputs when a swap is rolled back | cdk | @amartya1523 | merged |
 | [#2894](https://github.com/cashubtc/cdk/pull/2894) fix(cashu): fall back to the HTLC refund path when the receiver path fails | cdk | @amartya1523 | merged |
-| [#2883](https://github.com/cashubtc/cdk/pull/2883) fix(cashu): do not write or accept an empty pubkeys tag | cdk | @robwoodgate | open |
+| [#2883](https://github.com/cashubtc/cdk/pull/2883) fix(cashu): do not write or accept an empty pubkeys tag | cdk | @robwoodgate | merged |
 | [#2874](https://github.com/cashubtc/cdk/pull/2874) fix(cln): settle a failed xpay once no part can still pay | cdk | @macterra | open |
 | [#2841](https://github.com/cashubtc/cdk/pull/2841) fix(wallet): release batch mint quotes when prepare fails | cdk | @amartya1523 | merged |
 | [#2822](https://github.com/cashubtc/cdk/pull/2822) fix(wallet): keep stored proofs when a receive is compensated | cdk | @amartya1523 | open |
@@ -46,7 +46,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | [#2589](https://github.com/cashubtc/cdk/pull/2589) feat(mint-rpc): expose issued and redeemed totals by unit and keyset | cdk | @j-kon | open |
 | [#2530](https://github.com/cashubtc/cdk/pull/2530) Deliver NUT-18 payments over the configured transport | cdk | @crodas | merged |
 | [#2499](https://github.com/cashubtc/cdk/pull/2499) fix(wallet): preserve exact recipient amounts after redemption fees | cdk | @thesimplekid | open |
-| [#1183](https://github.com/cashubtc/nutshell/pull/1183) feat: add NUT-XX transactions | nutshell | @robwoodgate | open |
+| [#1183](https://github.com/cashubtc/nutshell/pull/1183) feat: add NUT-XX transactions | nutshell | @robwoodgate | closed |
 
 ## Authored
 
