@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 33 |
+| PRs reviewed or commented on | 34 |
 | Of those, merged | 19 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
@@ -14,6 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2937](https://github.com/cashubtc/cdk/pull/2937) fix(fees): book the fee remainder on a keyset that charges a fee | cdk | @amartya1523 | open |
 | [#2920](https://github.com/cashubtc/cdk/pull/2920) fix: handle SIGTERM gracefully in mintd and CLI listeners | cdk | @thesimplekid | merged |
 | [#2918](https://github.com/cashubtc/cdk/pull/2918) fix(cdk-sql-common): guard the blind signature write on the stored state | cdk | @lorenzolfm | merged |
 | [#2911](https://github.com/cashubtc/cdk/pull/2911) fix(signatory): check derived keys against the stored keyset id | cdk | @thesimplekid | merged |
