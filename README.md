@@ -4,8 +4,8 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 39 |
-| Of those, merged | 22 |
+| PRs reviewed or commented on | 40 |
+| Of those, merged | 24 |
 | PRs authored | 12 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -15,7 +15,8 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 | PR | Repo | Author | Status |
 |---|---|---|---|
 | [#2988](https://github.com/cashubtc/cdk/pull/2988) fix(mint): keep the subscription backfill when a quote check fails | cdk | @amartya1523 | open |
-| [#2987](https://github.com/cashubtc/cdk/pull/2987) fix(cashu): accept a null input_fee_ppk on a keyset | cdk | @amartya1523 | open |
+| [#2987](https://github.com/cashubtc/cdk/pull/2987) fix(cashu): accept a null input_fee_ppk on a keyset | cdk | @amartya1523 | merged |
+| [#2985](https://github.com/cashubtc/cdk/pull/2985) [Backport v0.18.x] Allow HTLC refunds with signature-only witnesses | cdk | @thesimplekid | merged |
 | [#2968](https://github.com/cashubtc/cdk/pull/2968) fix(wallet): release the mint quote when recovery completes an issue | cdk | @amartya1523 | open |
 | [#2967](https://github.com/cashubtc/cdk/pull/2967) fix(wallet): don't let prepare_melt_proofs take over spent or reserved proofs | cdk | @amartya1523 | merged |
 | [#2937](https://github.com/cashubtc/cdk/pull/2937) fix(fees): book the fee remainder on a keyset that charges a fee | cdk | @amartya1523 | merged |
