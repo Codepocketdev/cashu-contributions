@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 35 |
+| PRs reviewed or commented on | 36 |
 | Of those, merged | 21 |
 | PRs authored | 11 |
 | Authored PRs merged | 2 |
@@ -14,6 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2987](https://github.com/cashubtc/cdk/pull/2987) fix(cashu): accept a null input_fee_ppk on a keyset | cdk | @amartya1523 | open |
 | [#2937](https://github.com/cashubtc/cdk/pull/2937) fix(fees): book the fee remainder on a keyset that charges a fee | cdk | @amartya1523 | merged |
 | [#2935](https://github.com/cashubtc/cdk/pull/2935) fix(mint): return change on custom-method melt quote status | cdk | @amartya1523 | merged |
 | [#2920](https://github.com/cashubtc/cdk/pull/2920) fix: handle SIGTERM gracefully in mintd and CLI listeners | cdk | @thesimplekid | merged |
