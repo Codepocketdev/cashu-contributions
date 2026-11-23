@@ -6,7 +6,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 |---|---|
 | PRs reviewed or commented on | 39 |
 | Of those, merged | 22 |
-| PRs authored | 11 |
+| PRs authored | 12 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
 
@@ -58,6 +58,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Status |
 |---|---|---|
+| [#2991](https://github.com/cashubtc/cdk/pull/2991) fix(cdk-sqlite): open the database location that was named | cdk | open |
 | [#2915](https://github.com/cashubtc/cdk/pull/2915) test(wallet): cover HTLC receive preimage paths | cdk | open |
 | [#2145](https://github.com/cashubtc/cdk/pull/2145) feat: add cdk-bark payment backend for Ark/bark | cdk | closed |
 | [#1286](https://github.com/cashubtc/cashu-ts/pull/1286) test(wallet): cover a proofs-only transaction that settles to change | cashu-ts | closed |
