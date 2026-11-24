@@ -4,8 +4,8 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 40 |
-| Of those, merged | 24 |
+| PRs reviewed or commented on | 41 |
+| Of those, merged | 25 |
 | PRs authored | 12 |
 | Authored PRs merged | 2 |
 | Commits landed through maintainers | 1 |
@@ -14,6 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#2995](https://github.com/cashubtc/cdk/pull/2995) [Backport v0.18.x] fix(cashu): reject duplicate spending condition tags | cdk | @cdk-bot | merged |
 | [#2988](https://github.com/cashubtc/cdk/pull/2988) fix(mint): keep the subscription backfill when a quote check fails | cdk | @amartya1523 | open |
 | [#2987](https://github.com/cashubtc/cdk/pull/2987) fix(cashu): accept a null input_fee_ppk on a keyset | cdk | @amartya1523 | merged |
 | [#2985](https://github.com/cashubtc/cdk/pull/2985) [Backport v0.18.x] Allow HTLC refunds with signature-only witnesses | cdk | @thesimplekid | merged |
