@@ -4,7 +4,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | | Count |
 |---|---|
-| PRs reviewed or commented on | 41 |
+| PRs reviewed or commented on | 42 |
 | Of those, merged | 25 |
 | PRs authored | 12 |
 | Authored PRs merged | 2 |
@@ -14,6 +14,7 @@ Reviews and pull requests by [@Codepocketdev](https://github.com/Codepocketdev) 
 
 | PR | Repo | Author | Status |
 |---|---|---|---|
+| [#3002](https://github.com/cashubtc/cdk/pull/3002) feat(mint): advertise the NUT-06 demo flag for fake wallet backends | cdk | @robwoodgate | open |
 | [#2995](https://github.com/cashubtc/cdk/pull/2995) [Backport v0.18.x] fix(cashu): reject duplicate spending condition tags | cdk | @cdk-bot | merged |
 | [#2988](https://github.com/cashubtc/cdk/pull/2988) fix(mint): keep the subscription backfill when a quote check fails | cdk | @amartya1523 | open |
 | [#2987](https://github.com/cashubtc/cdk/pull/2987) fix(cashu): accept a null input_fee_ppk on a keyset | cdk | @amartya1523 | merged |
